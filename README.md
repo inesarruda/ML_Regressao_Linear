@@ -1,5 +1,6 @@
 # ML_Regressao_Linear
-Esse repositório contém dois Projetos de Machine Learning que utilizam o algoritmo de Regressão Linear. 
+
+### Esse repositório contém dois Projetos de Machine Learning que utilizam o algoritmo de Regressão Linear. 
 
 ## O primeiro projeto é o ''US_Housing' e tem como objetivo fazer uma breve análise exploratória e aplicar a regressão linear para prever o preço de casas. 
 
